@@ -206,7 +206,7 @@ public class TestAlphaStone {
     }
   }
 
-
+  //@Test
 
   @Test
   public void TurnNumberWorks(){
